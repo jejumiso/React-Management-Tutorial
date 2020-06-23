@@ -1,3 +1,6 @@
+## Managemest System
+유튜브 강의 따라하기..
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
